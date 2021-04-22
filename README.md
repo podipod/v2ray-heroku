@@ -34,6 +34,7 @@ shadowsocks+v2ray-plugin方案点击这里： <https://github.com/ygcaicn/ss-her
 **或者**
 
 手动配置（推荐使用二维码或者订阅的方式配置）
+UUID在线生成器：https://www.uuidgenerator.net
 
 ```sh
 address: test.herokuapp.com (test替换为你的AppName)
